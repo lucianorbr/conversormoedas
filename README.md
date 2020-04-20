@@ -4,3 +4,6 @@ Primeiro sistema criado em ReactJS com intuito de aprofundar nos fundamentos sob
 
 Sistema 100% em ReactJS, sem uso de bibliotecas externas, com intuito de iniciar no ambiente ReactJS.
 
+![Captura de tela de 2020-04-20 19-13-10](https://user-images.githubusercontent.com/24936196/79804900-558f8680-833b-11ea-9bc2-bcb7cf2be801.png)
+
+
