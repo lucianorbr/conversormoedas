@@ -20,7 +20,7 @@ constructor(props){
 
     let de_para = `${this.props.moedaA}_${this.props.moedaB}`;
     //let url = `http://free.currconv.com/api/v7/convert?q=${de_para}&compact=y`
-    let url = `https://free.currconv.com/api/v7/convert?q=${de_para}&compact=ultra&apiKey=c4e9bf1fe4892ab44239`
+    let url = `https://free.currencyconverterapi.com/api/v5/convert?q=${de_para}&compact=y`
     
     fetch(url)
     .then(res =>{
